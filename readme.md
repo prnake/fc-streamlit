@@ -1,14 +1,14 @@
-# start-stramlit 帮助文档
+# start-streamlit 帮助文档
 
 <p align="center" class="flex justify-center">
     <a href="https://www.serverless-devs.com" class="ml-1">
-    <img src="http://editor.devsapp.cn/icon?package=start-stramlit&type=packageType">
+    <img src="http://editor.devsapp.cn/icon?package=start-streamlit&type=packageType">
   </a>
-  <a href="http://www.devsapp.cn/details.html?name=start-stramlit" class="ml-1">
-    <img src="http://editor.devsapp.cn/icon?package=start-stramlit&type=packageVersion">
+  <a href="http://www.devsapp.cn/details.html?name=start-streamlit" class="ml-1">
+    <img src="http://editor.devsapp.cn/icon?package=start-streamlit&type=packageVersion">
   </a>
-  <a href="http://www.devsapp.cn/details.html?name=start-stramlit" class="ml-1">
-    <img src="http://editor.devsapp.cn/icon?package=start-stramlit&type=packageDownload">
+  <a href="http://www.devsapp.cn/details.html?name=start-streamlit" class="ml-1">
+    <img src="http://editor.devsapp.cn/icon?package=start-streamlit&type=packageDownload">
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Streamlit 是一个基于Python 的Web 应用程序框架，致力于以更高�
 
 # 代码 & 预览
 
-- [ :smiley_cat:  源代码](https://github.com/devsapp/start-web-framework/blob/master/web-framework/python/stramlit)
+- [ :smiley_cat:  源代码](https://github.com/devsapp/start-web-framework/blob/master/web-framework/python/streamlit)
 
 </codepre>
 
@@ -43,15 +43,15 @@ Streamlit 是一个基于Python 的Web 应用程序框架，致力于以更高�
 
 <appcenter>
 
--  :fire:  通过 [Serverless 应用中心](https://fcnext.console.aliyun.com/applications/create?template=start-stramlit) ，
-[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://fcnext.console.aliyun.com/applications/create?template=start-stramlit)  该应用。 
+-  :fire:  通过 [Serverless 应用中心](https://fcnext.console.aliyun.com/applications/create?template=start-streamlit) ，
+[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://fcnext.console.aliyun.com/applications/create?template=start-streamlit)  该应用。 
 
 </appcenter>
 
 - 通过 [Serverless Devs Cli](https://www.serverless-devs.com/serverless-devs/install) 进行部署：
     - [安装 Serverless Devs Cli 开发者工具](https://www.serverless-devs.com/serverless-devs/install) ，并进行[授权信息配置](https://www.serverless-devs.com/fc/config) ；
-    - 初始化项目：`s init start-stramlit -d start-stramlit`   
-    - 进入项目，并进行项目部署：`cd start-stramlit && s deploy -y`
+    - 初始化项目：`s init start-streamlit -d start-streamlit`   
+    - 进入项目，并进行项目部署：`cd start-streamlit && s deploy -y`
 
 </deploy>
 
@@ -60,7 +60,7 @@ Streamlit 是一个基于Python 的Web 应用程序框架，致力于以更高�
 # 应用详情
 
 
-本项目是将 Python Web 框架中，非常受欢迎的 stramlit 框架，部署到阿里云 Serverless 平台（函数计算 FC）。
+本项目是将 Python Web 框架中，非常受欢迎的 streamlit 框架，部署到阿里云 Serverless 平台（函数计算 FC）。
 
 > Streamlit 是一个基于Python 的Web 应用程序框架，致力于以更高效、更灵活的方式可视化数据，并分析结果。 
 
